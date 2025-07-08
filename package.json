@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/steph10920/alx-intermediate-frontend/issues"
   },
-  "homepage": "https://github.com/steph10920/alx-intermediate-frontend#readme"
+  "homepage": "https://github.com/steph10920/alx-intermediate-frontend#readme",
+  "dependencies": {
+    "sass": "^1.89.2"
+  }
 }
