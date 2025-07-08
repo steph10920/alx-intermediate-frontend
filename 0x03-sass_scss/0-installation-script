@@ -1,0 +1,17 @@
+@"
+# Installation steps for SASS
+
+1. Navigated into the project folder:
+   cd alx-intermediate-frontend
+
+2. Created new directory:
+   mkdir 0x03-sass_scss
+   cd 0x03-sass_scss
+
+3. Installed Node.js version 20.16.0:
+   nvm install 20.16.0
+   nvm use 20.16.0
+
+4. Installed SASS in the project:
+   npm install sass
+"@ | Out-File -FilePath "0-installation-script"
